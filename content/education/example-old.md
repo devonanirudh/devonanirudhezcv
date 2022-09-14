@@ -1,8 +1,6 @@
 ---
-institution: MIT
-year_started: 2014
-year_ended: 2016
-title: MS Computer Science
+institution: Pace University
+year_started: 2007
+year_ended: 20011
+title: BS International Management
 ---
-
-I studied things at MIT
