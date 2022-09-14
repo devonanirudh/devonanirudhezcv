@@ -11,7 +11,7 @@ role: Your job role/title (i.e. CEO)
 company: Company name
 address: 123 first street SE
 social:
-  github: descent098 # Your username on github 
+  github: devonanirudh # Your username on github 
   twitch: username # Your username on twitch (everything after https://twitch.tv) i.e. https://twitch.tv/canadiancoding would be canadiancoding
   youtube: /channel/channel-ID or custom_url # Your custom url (i.e. https://youtube.com/mkbhd would be just mkbhd) or see this guide to find your channel ID: https://support.google.com/youtube/answer/3250431?hl=en
   instagram: username # Your username
