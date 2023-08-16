@@ -5,8 +5,8 @@ avatar: https://startbootstrap.github.io/startbootstrap-freelancer/assets/img/av
 email: devon@devonanirudh.com
 phone: 123-123-123454
 biography: | # The '|' Used to allow the description to go across multiple lines
-| I am a technologist that Blends academic training in business management and data analytics with hands-on experience in systems administration and training to offer employers a track record of delivering on tasks accurately, efficiently and quickly.  
-| Known for best-in-class attention to detail and  communications with stakeholders across all levels.  
+  I am a technologist that Blends academic training in business management and data analytics with hands-on experience in systems administration and training to offer employers a track record of delivering on tasks accurately, efficiently and quickly.
+  Known for best-in-class attention to detail and  communications with stakeholders across all levels.
 role: Lead Technical Specialist
 company: Columbia University Center for Teaching and Learning
 social:
